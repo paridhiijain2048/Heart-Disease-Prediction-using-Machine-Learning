@@ -29,7 +29,7 @@ To build a data-driven system capable of accurately predicting heart disease usi
 
 #### Model Performance
 - The models demonstrated varying levels of accuracy in predicting heart disease.
-- **Random Forest** achieved the highest accuracy of **95%**, making it the most effective model for this dataset.
+- **Random Forest** achieved the highest accuracy of **90%**, making it the most effective model for this dataset.
 
 #### Conclusion
 This project showcases how ML can significantly contribute to healthcare by providing accurate predictions for heart disease. By utilizing different algorithms, the project not only compares their performance but also emphasizes the importance of data-driven decision-making in medical research and prevention.
